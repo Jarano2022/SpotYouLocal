@@ -1,0 +1,8 @@
+{
+  "name": "CrateDock",
+  "description": "Aplicación web en Docker para buscar y descargar listas de YouTube, Spotify y más por nombre o URL, compatible con listas privadas mediante autenticación OAuth y gestión minimalista de descargas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
